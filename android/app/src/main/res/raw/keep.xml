@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_stat_h is referenced only from Dart code (the backup
+     notification's small icon), so the resource shrinker would
+     strip it as unused. Keep it explicitly. -->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/ic_stat_h" />
