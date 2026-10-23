@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Legacy (pre-adaptive) icon: black tile, solid green H.
+     Solid fill (no gradient) so old vector renderers stay correct;
+     API 26+ uses the adaptive icon with the gradient foreground. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#000000" android:pathData="M0,0 h108 v108 h-108 z" />
+    <path android:fillColor="#22C55E"
+        android:pathData="M34,29 h11.25 v18.75 h17.5 v-18.75 h11.25 v50 h-11.25 v-18.75 h-17.5 v18.75 h-11.25 z" />
+</vector>
